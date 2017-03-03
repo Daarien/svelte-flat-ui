@@ -1,36 +1,33 @@
-## Svelte Flat
-一套基于Svelte开发的UI组件库，轻松使用，简单上手，不依赖于任何框架。
+## Svelte Flat UI Components
 
-### 安装
-你可以使用npm的方式安装，当然我们更推荐使用yarn安装。
+### Installation
 ```bash
-$yarn add svelte-flat
+yarn add svelte-flat
 ```
 
-### 全局引入
-全局引入，方便快捷。
+### Usage
+### All components (Global)
 ```javascript
 import Flat from 'svelte-flat' 
 import 'svelte-flat/lib/theme-default/index.css'
 ```
 
-### 单一组件引入
-引入单个组件，缩减代码量。
+### Standalone component
 ```javascript
 import { Button } from 'svelte-flat' 
 import 'svelte-flat/lib/theme-default/button.css'
 ```
 
-### 按需引入
-如果你使用babel的话，可以安装[`babel-plugin-svelteflat`](https://github.com/jikkai/babel-plugin-svelteflat)插件自动按需引入组件。
+### Babel plugin
+[`babel-plugin-svelteflat`](https://github.com/jikkai/babel-plugin-svelteflat)
 
-#### 安装依赖
+#### Install
 ```bash
 yarn add babel-plugin-svelteflat --dev
 ```
 
-#### 配置及使用
-在`.babelrc`中按下例配置，`typoCss`是一个可选项，默认为`true`，用于选择是否使用默认的`typo.css`重设浏览器样式。
+#### Configure
+Edit your `.babelrc`:
 ```json
 {
   "plugins": [
@@ -45,7 +42,7 @@ yarn add babel-plugin-svelteflat --dev
 }
 ```
 
-然后就可以在代码中使用了：
+#### Use
 ```javascript
 import { Button } from 'svelte-flat' 
 ```

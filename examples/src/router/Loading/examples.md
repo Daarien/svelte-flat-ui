@@ -1,4 +1,4 @@
-## Loading 加载
+## Loading
 
 创建一个加载浮层以降低用户等待某一操作时的焦躁。
 
@@ -18,7 +18,7 @@
   </div>
 </section>
 
-### 代码示例
+### Example
 ```javascript
 // 打开加载浮层
 const loading = Loading()

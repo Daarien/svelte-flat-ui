@@ -1,4 +1,4 @@
-# svelte-flat 
+# svelte-flat
 > Flat UI Components with SvelteJS
 
 ![img](http://img.shields.io/npm/v/svelte-flat.svg)
@@ -33,11 +33,7 @@ button.onclick = function (e) {
 }
 ```
 
-## Documentation
-[Documentation](https://jikkai.github.io/svelte-flat/)
-
-## Browser Support
-Unknown.
+## [Documentation](https://transpiling.github.io/svelte-flat-ui-components/)
 
 ## Development
 ```bash
@@ -48,4 +44,4 @@ $ yarn run build
 ```
 
 ## License
-[MIT](https://github.com/jikkai/svelte-flat/blob/master/LICENSE)
+[MIT](https://transpiling.github.io/svelte-flat-ui-components/blob/master/LICENSE)

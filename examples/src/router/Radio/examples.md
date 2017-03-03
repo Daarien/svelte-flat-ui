@@ -1,4 +1,4 @@
-## Radio 单选框
+## Radio
 
 提供单选框供用户进行单项选择。
 
@@ -20,7 +20,7 @@
   </div>
 </section>
 
-### 代码示例
+### Example
 ```javascript
 const radio = Radio({
   target: document.querySelector('#radio'),

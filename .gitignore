@@ -6,3 +6,4 @@ tools
 **/lib/**/
 dist
 lib
+.idea

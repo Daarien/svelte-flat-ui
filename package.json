@@ -13,12 +13,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jikkai/svelte-flat.git"
+    "url": "git+https://github.com/transpiling/svelte-flat-ui-components.git"
   },
   "bugs": {
     "url": "https://github.com/jikkai/svelte-flat/issues"
   },
-  "homepage": "https://jikkai.github.io/svelte-flat",
+  "homepage": "https://transpiling.github.io/svelte-flat-ui-components/",
   "keywords": [
     "svelte",
     "flat-ui",

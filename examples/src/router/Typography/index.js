@@ -8,7 +8,7 @@ class TypographyRouter extends React.Component {
   render () {
     return (
       <div className="examples-router examples-router-typography">
-        <h2>Typography 排版</h2>
+        <h2>Typography</h2>
 
         <p>基于<code>typo.css</code>的排版系统。</p>
 
