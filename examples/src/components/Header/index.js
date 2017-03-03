@@ -11,11 +11,12 @@ class HeaderComponent extends React.Component {
           <h1>
             <span>Svelte</span>
             <span>Flat</span>
+            UI Components
           </h1>
         </Link>
 
         <div className="examples-header-right">
-          <a href="https://github.com/jikkai/svelte-flat" target="_blank">
+          <a href="https://github.com/tranpiling/svelte-flat-ui-components" target="_blank">
             <i className="fui-github"></i>
           </a>
         </div>

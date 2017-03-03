@@ -1,4 +1,4 @@
-## Slider 滑块
+## Slider
 
 通过滑动滑块改变值。
 
@@ -10,7 +10,7 @@
   </div>
 </section>
 
-### 代码示例
+### Example
 ```javascript
 Slider({
   target: document.querySelector('#slider'),

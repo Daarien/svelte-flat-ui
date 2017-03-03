@@ -8,44 +8,44 @@ class MenuComponent extends React.Component {
     return (
       <div className="examples-menu">
         <ul>
-          <li><IndexLink activeClassName="active" to="/">首页</IndexLink></li>
+          <li><IndexLink activeClassName="active" to="/">Home</IndexLink></li>
           <li>
-            <h4>基础样式</h4>
+            <h4>CSS</h4>
             <ul>
               <li>
-                <Link activeClassName="active" to="/color">Color 色彩</Link>
-                <Link activeClassName="active" to="/typography">Typography 排版</Link>
-                <Link activeClassName="active" to="/icon">Icon 图标</Link>
+                <Link activeClassName="active" to="/color">Color</Link>
+                <Link activeClassName="active" to="/typography">Typography</Link>
+                <Link activeClassName="active" to="/icon">Icon</Link>
               </li>
             </ul>
           </li>
           <li>
-            <h4>基础组件</h4>
+            <h4>Basic Components</h4>
             <ul>
               <li>
-                <Link activeClassName="active" to="/button">Button 按钮</Link>
-                <Link activeClassName="active" to="/input">Input 输入框</Link>
-                <Link activeClassName="active" to="/checkbox">Checkbox 多选框</Link>
-                <Link activeClassName="active" to="/radio">Radio 单选框</Link>
-                <Link activeClassName="active" to="/slider">Slider 滑块</Link>
+                <Link activeClassName="active" to="/button">Button</Link>
+                <Link activeClassName="active" to="/input">Input</Link>
+                <Link activeClassName="active" to="/checkbox">Checkbox</Link>
+                <Link activeClassName="active" to="/radio">Radio</Link>
+                <Link activeClassName="active" to="/slider">Slider</Link>
               </li>
             </ul>
           </li>
           <li>
-            <h4>提示组件</h4>
+            <h4>Notifications</h4>
             <ul>
               <li>
-                <Link activeClassName="active" to="/message">Message 消息提示</Link>
-                <Link activeClassName="active" to="/loading">Loading 加载</Link>
+                <Link activeClassName="active" to="/message">Message</Link>
+                <Link activeClassName="active" to="/loading">Loading</Link>
               </li>
             </ul>
           </li>
           <li>
-            <h4>多媒体组件</h4>
+            <h4>Multimedia</h4>
             <ul>
               <li>
-                <Link activeClassName="active" to="/audio">Audio 音频播放器</Link>
-                <Link activeClassName="active" to="/video">Video 视频播放器</Link>
+                <Link activeClassName="active" to="/audio">Audio</Link>
+                <Link activeClassName="active" to="/video">Video</Link>
               </li>
             </ul>
           </li>

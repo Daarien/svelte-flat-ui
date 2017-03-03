@@ -1,4 +1,4 @@
-## Input 输入框
+## Input
 
 普通的字符输入框。
 
@@ -28,7 +28,7 @@
   </div>
 </section>
 
-### 代码示例
+### Example
 ```javascript
 const input = Input({
   target: document.querySelector('#input'),

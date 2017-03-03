@@ -1,4 +1,4 @@
-## Checkbox 多选框
+## Checkbox
 
 提供多选框供用户进行多项选择。
 
@@ -20,7 +20,7 @@
   </div>
 </section>
 
-### 代码示例
+### Example
 ```javascript
 const checkbox = Checkbox({
   target: document.querySelector('#checkbox'),

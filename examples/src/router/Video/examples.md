@@ -1,4 +1,4 @@
-## Video 视频播放器
+## Video
 
 提供一个简单的HTML5视频播放器，用于播放视频。
 
@@ -10,7 +10,7 @@
   </div>
 </section>
 
-### 代码示例
+### Example
 ```javascript
 Video({
   target: document.querySelector('#video'),

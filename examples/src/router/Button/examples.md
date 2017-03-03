@@ -1,9 +1,9 @@
-## Button 按钮
+## Button
 
 提供一系列按钮用于用户点击操作。
 
 <section class="example">
-  <h3>按钮类型</h3>
+  <h3>Status styles</h3>
   <div>
     <div id="button1"></div>
     <div id="button2"></div>
@@ -16,20 +16,20 @@
 </section>
 
 <section class="example">
-  <h3>禁用按钮</h3>
+  <h3>Disabled</h3>
   <div>
     <div id="button8"></div>
   </div>
 </section>
 
 <section class="example">
-  <h3>浮雕按钮</h3>
+  <h3>Enabled</h3>
   <div>
     <div id="button9"></div>
   </div>
 </section>
 
-### 代码示例
+### Example
 ```javascript
 const button = Button({
   target: document.querySelector('#button'),

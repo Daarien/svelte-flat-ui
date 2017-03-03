@@ -1,4 +1,4 @@
-## Message 消息提示
+## Message
 
 在页面顶部创建一个浮层，用于展示通知或者提示。
 
@@ -21,7 +21,7 @@
   </div>
 </section>
 
-### 代码示例
+### Example
 ```javascript
 Message({
   content: 'Awesome!',

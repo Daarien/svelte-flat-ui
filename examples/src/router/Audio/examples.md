@@ -1,4 +1,4 @@
-## Audio 音频播放器
+## Audio
 
 提供一个简单的HTML5音频播放器，用于播放音频。
 
@@ -10,7 +10,7 @@
   </div>
 </section>
 
-### 代码示例
+### Example
 ```javascript
 Audio({
   target: document.querySelector('#audio'),
