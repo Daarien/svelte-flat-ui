@@ -1,7 +1,7 @@
 {
   "name": "svelte-ui-input",
   "description": "Flat UI Independent JS Component",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "main": "index.js",
   "author": "Jikkai Xiao <sonne@asaki.me>",
   "repository": "git+https://github.com/transpiling/svelte-flat-ui.git",
