@@ -1,28 +1,28 @@
 ## Loading
 
-创建一个加载浮层以降低用户等待某一操作时的焦躁。
+Create a load floating layer to reduce the user waiting for an operation when the anxiety.
 
-<section class="example">
-  <h3>基础用法</h3>
+<Section class = "example">
+   <H3> Basic usage </h3>
 
-  <div>
-    <div id="loading1"></div>
-  </div>
-</section>
+   <Div>
+     <Div id = "loading1"> </div>
+   </Div>
+</Section>
 
-<section class="example">
-  <h3>主题</h3>
+<Section class = "example">
+   <H3> topic </h3>
 
-  <div>
-    <div id="loading2"></div>
-  </div>
-</section>
+   <Div>
+     <Div id = "loading2"> </div>
+   </Div>
+</Section>
 
 ### Example
-```javascript
-// 打开加载浮层
-const loading = Loading()
+```Javascript
+// open the floating layer
+Const loading = Loading ()
 
-// 关闭加载浮层
-loading.teardown()
-```
+// Close the floating layer
+Loading.teardown ()
+````

@@ -13,8 +13,8 @@ class LoadingRouter extends React.Component {
     super(props)
     this.state = {
       button: [
-        { content: '打开加载组件，3秒后自动关闭', status: 'info' },
-        { content: '打开dark主题的加载组件', status: 'info' }
+        {Content: 'open load component, auto-close after 3 seconds', status: 'info'},
+        {Content: 'open dark theme loading component', status: 'info'}
       ],
       loading: [
         { theme: 'light' },

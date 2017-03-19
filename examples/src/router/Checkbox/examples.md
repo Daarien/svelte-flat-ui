@@ -1,24 +1,24 @@
 ## Checkbox
 
-提供多选框供用户进行多项选择。
+Provide multiple checkboxes for multiple selections.
 
-<section class="example">
-  <h3>基础多选框</h3>
+<Section class = "example">
+   <H3> Basic checkbox </h3>
 
-  <div>
-    <div id="checkbox1"></div>
-    <div id="checkbox2"></div>
-  </div>
-</section>
+   <Div>
+     <Div id = "checkbox1"> </div>
+     <Div id = "checkbox2"> </div>
+   </Div>
+</Section>
 
-<section class="example">
-  <h3>禁用状态</h3>
+<Section class = "example">
+   <H3> disabled state </h3>
 
-  <div>
-    <div id="checkbox3"></div>
-    <div id="checkbox4"></div>
-  </div>
-</section>
+   <Div>
+     <Div id = "checkbox3"> </div>
+     <Div id = "checkbox4"> </div>
+   </Div>
+</Section>
 
 ### Example
 ```javascript

@@ -2,20 +2,20 @@
 
 ### Installation
 ```bash
-yarn add svelte-flat
+yarn add svelte-ui-button svelte-ui-theme
 ```
 
 ### Usage
 ### All components (Global)
 ```javascript
-import Flat from 'svelte-flat' 
-import 'svelte-flat/lib/theme-default/index.css'
+import Flat from 'svelte-ui' 
+import 'svelte-ui-theme/index.css'
 ```
 
 ### Standalone component
 ```javascript
-import { Button } from 'svelte-flat' 
-import 'svelte-flat/lib/theme-default/button.css'
+import { Button } from 'svelte-ui-button' 
+import 'svelte-ui-theme/button.css'
 ```
 
 ### Babel plugin
@@ -33,8 +33,8 @@ Edit your `.babelrc`:
   "plugins": [
     ["svelteflat", [
       { 
-        "libraryName": "svelte-flat",
-        "styleLibraryName": "theme-default", 
+        "libraryName": "svelte-ui",
+        "styleLibraryName": "svelte-ui-theme", 
         "typoCss": true
       }
     ]]
@@ -44,5 +44,5 @@ Edit your `.babelrc`:
 
 #### Use
 ```javascript
-import { Button } from 'svelte-flat' 
+import { Button } from 'svelte-ui-button' 
 ```

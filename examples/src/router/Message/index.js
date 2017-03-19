@@ -13,18 +13,18 @@ class MessageRouter extends React.Component {
     super(props)
     this.state = {
       button: [
-        { content: '打开消息提示' },
-        { content: '成功', status: 'success' },
-        { content: '警告', status: 'warning' },
-        { content: '信息', status: 'info' },
-        { content: '错误', status: 'danger' }
+        {Content: 'open message hints'},
+        {Content: 'success', status: 'success'},
+        {Content: 'warning', status: 'warning'},
+        {Content: 'info', status: 'info'},
+        {Content: 'error', status: 'danger'}
       ],
-      message: [
-        { content: 'hello world' },
-        { content: '成功提示', status: 'success' },
-        { content: '警告提示', status: 'warning' },
-        { content: '信息提示', status: 'info' },
-        { content: '错误提示', status: 'danger' }
+      Message: [
+        {Content: 'hello world'},
+        {Content: 'Successful', status: 'success'},
+        {Content: 'warning', status: 'warning'},
+        {Content: 'message hints', status: 'info'},
+        {Content: 'error', status: 'danger'}
       ]
     }
   }

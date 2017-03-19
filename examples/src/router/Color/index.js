@@ -35,10 +35,10 @@ class ColorRouter extends React.Component {
     const { color } = this.state
     return (
       <div className="examples-router examples-router-color">
-        <h2>Color 色彩</h2>
+        <h2>Color</h2>
 
         <section className="examples">
-          <h3>配色</h3>
+          <h3>Color matching</h3>
           <div>
             {
               color.map((item, i) => {

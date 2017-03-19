@@ -1,45 +1,45 @@
 ## Button
 
-提供一系列按钮用于用户点击操作。
+Provide a series of buttons for user clicks.
 
-<section class="example">
-  <h3>Status styles</h3>
-  <div>
-    <div id="button1"></div>
-    <div id="button2"></div>
-    <div id="button3"></div>
-    <div id="button4"></div>
-    <div id="button5"></div>
-    <div id="button6"></div>
-    <div id="button7"></div>
-  </div>
-</section>
+<Section class = "example">
+   <H3> Status styles </h3>
+   <Div>
+     <Div id = "button1"> </div>
+     <Div id = "button2"> </div>
+     <Div id = "button3"> </div>
+     <Div id = "button4"> </div>
+     <Div id = "button5"> </div>
+     <Div id = "button6"> </div>
+     <Div id = "button7"> </div>
+   </Div>
+</Section>
 
-<section class="example">
-  <h3>Disabled</h3>
-  <div>
-    <div id="button8"></div>
-  </div>
-</section>
+<Section class = "example">
+   <H3> Disabled </h3>
+   <Div>
+     <Div id = "button8"> </div>
+   </Div>
+</Section>
 
-<section class="example">
-  <h3>Enabled</h3>
-  <div>
-    <div id="button9"></div>
-  </div>
-</section>
+<Section class = "example">
+   <H3> Enabled </h3>
+   <Div>
+     <Div id = "button9"> </div>
+   </Div>
+</Section>
 
 ### Example
-```javascript
-const button = Button({
-  target: document.querySelector('#button'),
-  data: {
-    content: 'Click me!',
-    status: 'primary'
-  }
+```Javascript
+Const button = Button ({
+   Target: document.querySelector ('# button'),
+   Data: {
+     Content: 'Click me!',
+     Status: 'primary'
+   }
 })
 
-button.onclick = () => {
-  alert('hello world!')
+Button.onclick = () => {
+   Alert ('hello world!')
 }
-```
+````

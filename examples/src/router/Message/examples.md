@@ -1,17 +1,17 @@
 ## Message
 
-在页面顶部创建一个浮层，用于展示通知或者提示。
+Create a floating layer at the top of the page to show notifications or prompts.
 
-<section class="example">
-  <h3>基础用法</h3>
+<Section class = "example">
+   <H3> Basic usage </h3>
 
-  <div>
-    <div id="message1"></div>
-  </div>
-</section>
+   <Div>
+     <Div id = "message1"> </div>
+   </Div>
+</Section>
 
-<section class="example">
-  <h3>消息类型</h3>
+<Section class = "example">
+   <H3> message type </h3>
 
   <div>
     <div id="message2"></div>

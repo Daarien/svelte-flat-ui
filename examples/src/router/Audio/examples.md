@@ -1,14 +1,14 @@
 ## Audio
 
-提供一个简单的HTML5音频播放器，用于播放音频。
+Provides a simple HTML5 audio player for playing audio.
 
-<section class="example">
-  <h3>基础播放器</h3>
+<Section class = "example">
+   <H3> Basic player </h3>
 
-  <div>
-    <div id="audio1"></div>
-  </div>
-</section>
+   <Div>
+     <Div id = "audio1"> </div>
+   </Div>
+</Section>
 
 ### Example
 ```javascript

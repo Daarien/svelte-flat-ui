@@ -1,9 +1,9 @@
 ## Radio
 
-提供单选框供用户进行单项选择。
+Provide a radio button for individual selection.
 
-<section class="example">
-  <h3>基础单选框</h3>
+<Section class = "example">
+   <H3> Basic radio button </h3>
 
   <div>
     <div id="radio1"></div>

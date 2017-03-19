@@ -1,14 +1,14 @@
 ## Slider
 
-通过滑动滑块改变值。
+Change the value by sliding the slider.
 
-<section class="example">
-  <h3>基础滑块</h3>
+<Section class = "example">
+   <H3> base slider </h3>
 
-  <div>
-    <div id="slider1"></div>
-  </div>
-</section>
+   <Div>
+     <Div id = "slider1"> </div>
+   </Div>
+</Section>
 
 ### Example
 ```javascript

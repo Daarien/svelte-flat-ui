@@ -1,32 +1,32 @@
 ## Input
 
-普通的字符输入框。
+Ordinary character input box.
 
-<section class="example">
-  <h3>基础输入框</h3>
+<Section class = "example">
+   <H3> Basic input box </h3>
 
-  <div>
-    <div id="input1"></div>
-    <div id="input2"></div>
-  </div>
-</section>
+   <Div>
+     <Div id = "input1"> </div>
+     <Div id = "input2"> </div>
+   </Div>
+</Section>
 
-<section class="example">
-  <h3>带状态的输入框</h3>
+<Section class = "example">
+   <H3> Input box with status </h3>
 
-  <div>
-    <div id="input3"></div>
-    <div id="input4"></div>
-  </div>
-</section>
+   <Div>
+     <Div id = "input3"> </div>
+     <Div id = "input4"> </div>
+   </Div>
+</Section>
 
-<section class="example">
-  <h3>禁用输入框</h3>
+<Section class = "example">
+   <H3> disable input box </h3>
 
-  <div>
-    <div id="input5"></div>
-  </div>
-</section>
+   <Div>
+     <Div id = "input5"> </div>
+   </Div>
+</Section>
 
 ### Example
 ```javascript
