@@ -1,5 +1,5 @@
 {
-  "name": "@svelte-ui/radio",
+  "name": "svelte-ui-radio",
   "version": "0.0.2",
   "main": "index.js",
   "author": "Jikkai Xiao <sonne@asaki.me>",

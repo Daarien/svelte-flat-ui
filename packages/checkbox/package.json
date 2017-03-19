@@ -1,5 +1,5 @@
 {
-  "name": "@svelte-ui/checkbox",
+  "name": "svelte-ui-checkbox",
   "version": "0.0.3",
   "main": "index.js",
   "author": "Jikkai Xiao <sonne@asaki.me>",

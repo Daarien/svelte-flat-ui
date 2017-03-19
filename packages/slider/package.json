@@ -1,5 +1,5 @@
 {
-  "name": "@svelte-ui/slider",
+  "name": "svelte-ui-slider",
   "version": "0.0.4",
   "main": "index.js",
   "author": "Jikkai Xiao <sonne@asaki.me>",
