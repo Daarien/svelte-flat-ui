@@ -2,7 +2,7 @@
 
 module.exports = {
   port: '8080',
-  title: 'Svelte Flat',
+  title: 'Svelte Flat UI',
   vendor: [
     'react',
     'react-dom',
