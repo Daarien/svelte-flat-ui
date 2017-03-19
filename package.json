@@ -6,10 +6,12 @@
   "author": "Jikkai Xiao <sonne@asaki.me>",
   "license": "MIT",
   "scripts": {
+    "install": "yarn && yarn run init ; cd examples && yarn",
     "init": "lerna run init",
+    "build-all": "yarn run build ; cd examples && yarn run build",
     "prebuild": "rm -rf ./lib && mkdir ./lib",
     "build": "lerna run build && rollup -c ./rollup.config.js",
-    "prepublish": "cd ./bin && ./build.sh"
+    "prepublish": "yarn run build-all"
   },
   "repository": "git+https://github.com/transpiling/svelte-flat-ui.git",
   "bugs": {
