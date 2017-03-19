@@ -16,13 +16,13 @@ svelte-flat-ui
 
 ## Installation
 ```bash
-yarn add @svelte-ui/button @svelte-ui/theme
+yarn add svelte-ui-button svelte-ui-theme
 ```
 
 ## Usage
 ```javascript
-import '@svelte-ui/button'
-import '@svelte-ui/theme/button.css'
+import 'svelte-ui-button'
+import 'svelte-ui-theme/button.css'
 
 const button = Button({
   target: document.querySelector('#button'),
