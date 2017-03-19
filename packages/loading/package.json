@@ -1,6 +1,7 @@
 {
   "name": "svelte-ui-loading",
-  "version": "0.0.5",
+  "description": "Flat UI Independent JS Component",
+  "version": "0.0.6",
   "main": "index.js",
   "author": "Jikkai Xiao <sonne@asaki.me>",
   "repository": "git+https://github.com/transpiling/svelte-flat-ui.git",

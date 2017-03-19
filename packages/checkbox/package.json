@@ -1,6 +1,7 @@
 {
   "name": "svelte-ui-checkbox",
-  "version": "0.0.6",
+  "description": "Flat UI Independent JS Component",
+  "version": "0.0.7",
   "main": "index.js",
   "author": "Jikkai Xiao <sonne@asaki.me>",
   "repository": "git+https://github.com/transpiling/svelte-flat-ui.git",
