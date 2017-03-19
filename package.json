@@ -6,8 +6,7 @@
   "author": "Jikkai Xiao <sonne@asaki.me>",
   "license": "MIT",
   "scripts": {
-    "install": "yarn run init",
-    "init": "lerna run init",
+    "install": "lerna clean && lerna bootstrap --hoist && cd examples && npm install highlightjs",
     "prebuild": "rm -rf ./lib && mkdir ./lib",
     "build": "lerna run build && rollup -c ./rollup.config.js",
     "build-docs": "cd examples && yarn run build"
@@ -24,7 +23,7 @@
   ],
   "devDependencies": {
     "babel-preset-es2015-rollup": "^3.0.0",
-    "lerna": "^2.0.0-beta.32",
+    "lerna": "^2.0.0-beta.38",
     "rollup": "^0.40.2",
     "rollup-plugin-babel": "^2.7.1",
     "rollup-plugin-svelte": "^1.6.0",

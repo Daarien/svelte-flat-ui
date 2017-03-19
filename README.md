@@ -1,10 +1,10 @@
-svelte-flat-ui
---------------
+svelte-ui
+---------
 ![img](http://img.shields.io/npm/v/svelte-ui.svg)
 ![img](http://img.shields.io/badge/license-MIT-blue.svg)
 
 > Flat UI **Independent JS Components**.     
-> Each one can be build separately (using **Svelte framework**).   
+> Each one can be built separately (using **Svelte framework**).   
 
 <p align="center">
   <a href="https://svelteui.js.org/">
@@ -45,8 +45,7 @@ button.onclick = function (e) {
 ```bash
 # Build all components
 yarn 
-yarn run init
-yarn run build
+yarn build
 ```
 
 ## License
