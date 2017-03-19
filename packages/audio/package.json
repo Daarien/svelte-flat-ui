@@ -1,5 +1,5 @@
 {
-  "name": "audio",
+  "name": "@svelte-ui/audio",
   "version": "0.0.1",
   "main": "index.js",
   "author": "Jikkai Xiao <sonne@asaki.me>",

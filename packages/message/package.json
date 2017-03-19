@@ -1,5 +1,5 @@
 {
-  "name": "message",
+  "name": "@svelte-ui/message",
   "version": "0.0.3",
   "main": "index.js",
   "author": "Jikkai Xiao <sonne@asaki.me>",

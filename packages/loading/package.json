@@ -1,5 +1,5 @@
 {
-  "name": "loading",
+  "name": "@svelte-ui/loading",
   "version": "0.0.1",
   "main": "index.js",
   "author": "Jikkai Xiao <sonne@asaki.me>",

@@ -1,5 +1,5 @@
 {
-  "name": "theme-default",
+  "name": "@svelte-ui/theme",
   "version": "0.0.7",
   "main": "index.js",
   "author": "Jikkai Xiao <sonne@asaki.me>",

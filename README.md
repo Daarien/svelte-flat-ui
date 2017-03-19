@@ -3,10 +3,11 @@ svelte-flat-ui
 ![img](http://img.shields.io/npm/v/svelte-flat.svg)
 ![img](http://img.shields.io/badge/license-MIT-blue.svg)
 
-> Flat UI Components with SvelteJS
+> Flat UI **Independent JS Components**.
+> Each one can be build separately (using **Svelte framework**).
 
 <p align="center">
-  <a href="https://jikkai.github.io/svelte-flat/">
+  <a href="https://svelteui.js.org/">
     <img alt="svelte-flat" src="https://github.com/jikkai/svelte-flat/raw/master/examples/src/assets/logo.png">
   </a>
 </p>
@@ -15,13 +16,13 @@ svelte-flat-ui
 
 ## Installation
 ```bash
-$ yarn add svelte-flat
+yarn add @svelte-ui/button @svelte-ui/theme
 ```
 
 ## Usage
 ```javascript
-import { Button } from 'svelte-flat'
-import 'svelte-flat/lib/theme-default/button.css'
+import '@svelte-ui/button'
+import '@svelte-ui/theme/button.css'
 
 const button = Button({
   target: document.querySelector('#button'),
@@ -39,9 +40,9 @@ button.onclick = function (e) {
 ## Development
 ```bash
 # Build all components
-$ yarn 
-$ yarn run init
-$ yarn run build
+yarn 
+yarn run init
+yarn run build
 ```
 
 ## License
