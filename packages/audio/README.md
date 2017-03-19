@@ -1,7 +1,8 @@
 ---
+[svelte-ui](https://github.com/transpiling/svelte-flat-ui/)
 
 ### Attributes
-|参数|说明|类型|可选值|默认值|
+| Parameter | description | type | optional value | default value |
 |---|---|---|---|---|
-|src|音频链接|String|-|-|
-|loop|是否开启循环|Boolean|-|false|
+| Src | audio link | String | - | - |
+| Loop | whether to open the loop | Boolean | - | false |

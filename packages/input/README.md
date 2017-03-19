@@ -1,15 +1,16 @@
 ---
+[svelte-ui](https://github.com/transpiling/svelte-flat-ui/)
 
 ### Attributes
-|参数|说明|类型|可选值|默认值|
-|---|---|---|---|---|
-|value|值|String|-|-|
-|type|类型|String|text,password|text|
-|status|状态|String|default,error,success|default|
-|placeholder|占位文本|String|-|-|
-|disabled|是否禁用|Boolean|-|false|
+| Parameter | description | type | optional value | default value |
+| --- | --- | --- | --- | --- |
+| Value | value | String | - | - |
+| Type | type | String | text, password | text |
+| Status | state | String | default, error, success | default |
+| Placeholder | placeholder text | String | - | - |
+| Disabled | whether to disable | Boolean | - | false |
 
 ### Events
-|事件名称|说明|回调参数|
-|---|---|---|
-|onfocus|获得焦点时触发|event|
+| Event name | description | callback parameter |
+| --- | --- | --- |
+| Onfocus | when the focus is triggered | event |

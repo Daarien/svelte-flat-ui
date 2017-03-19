@@ -1,7 +1,8 @@
 ---
+[svelte-ui](https://github.com/transpiling/svelte-flat-ui/)
 
 ### Attributes
-|参数|说明|类型|可选值|默认值|
-|---|---|---|---|---|
-|label|选项文字|String|---|---|
-|checked|是否选中|Boolean|---|false|
+| Parameter | description | type | optional value | default value |
+| --- | --- | --- | --- | --- |
+| Label | option text | String | --- | --- |
+| Checked | whether to select | Boolean | --- | false |

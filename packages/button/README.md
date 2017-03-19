@@ -1,14 +1,15 @@
 ---
+[svelte-ui](https://github.com/transpiling/svelte-flat-ui/)
 
 ### Attributes
-|参数|说明|类型|可选值|默认值|
-|---|---|---|---|---|
-|content|展示文字|String|-|-|
-|status|类型|String|default,primary,info,danger,success,warning,inverse|default|
-|disabled|是否禁用|Boolean|-|false|
-|embossed|是否启用浮雕效果|Boolean|-|false|
+| Parameter | description | type | optional value | default value |
+| --- | --- | --- | --- | --- |
+| Content | display text | String | - | - |
+| Status | type | String | default, primary, info, danger, success, warning, inverse | default |
+| Disabled | whether to disable | Boolean | - | false |
+| Embossed | whether to enable embossing effects | Boolean | - | false |
 
 ### Events
-|事件名称|说明|回调参数|
-|---|---|---|
-|onclick|点击触发|event|
+| Event name | description | callback parameter |
+| --- | --- | --- |
+| Onclick | click to trigger | event |

@@ -1,6 +1,6 @@
 svelte-flat-ui
 --------------
-![img](http://img.shields.io/npm/v/svelte-flat.svg)
+![img](http://img.shields.io/npm/v/svelte-ui.svg)
 ![img](http://img.shields.io/badge/license-MIT-blue.svg)
 
 > Flat UI **Independent JS Components**.

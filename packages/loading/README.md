@@ -1,6 +1,7 @@
 ---
+[svelte-ui](https://github.com/transpiling/svelte-flat-ui/)
 
 ### Attributes
-|参数|说明|类型|可选值|默认值|
-|---|---|---|---|---|
-|theme|主题|String|light,dark|light|
+| Parameter | description | type | optional value | default value |
+| --- | --- | --- | --- | --- |
+| Theme | String | light, dark | light |

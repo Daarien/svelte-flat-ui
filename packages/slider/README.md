@@ -1,13 +1,13 @@
 ---
+[svelte-ui](https://github.com/transpiling/svelte-flat-ui/)
 
-### Attributes
-|参数|说明|类型|可选值|默认值|
-|---|---|---|---|---|
-|value|值|Number|-|0|
-|min|最小值|Number|-|0|
-|max|最大值|Number|-|100|
+| Parameter | description | type | optional value | default value |
+| --- | --- | --- | --- | --- |
+| Value | value | Number | - | 0 |
+| Min | min | number | - | 0 |
+| Max | max | Number | - | 100 |
 
 ### Events
-|事件名称|说明|回调参数|
-|---|---|---|
-|onchange|拖动结束时触发|event|
+| Event name | description | callback parameter |
+| --- | --- | --- |
+| Onchange | triggers when the drag ends | event |
