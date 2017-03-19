@@ -1,6 +1,6 @@
 {
   "name": "svelte-ui-theme",
-  "version": "0.0.10",
+  "version": "0.0.11",
   "main": "index.js",
   "author": "Jikkai Xiao <sonne@asaki.me>",
   "repository": "git+https://github.com/transpiling/svelte-flat-ui.git",
