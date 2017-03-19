@@ -16,7 +16,7 @@ class HeaderComponent extends React.Component {
         </Link>
 
         <div className="examples-header-right">
-          <a href="https://github.com/tranpiling/svelte-flat-ui" target="_blank">
+          <a href="https://github.com/transpiling/svelte-flat-ui" target="_blank">
             <i className="fui-github"></i>
           </a>
         </div>

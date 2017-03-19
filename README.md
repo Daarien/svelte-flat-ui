@@ -15,10 +15,14 @@ svelte-flat-ui
 ---
 
 ## Installation
+All controls
+```bash
+yarn add svelte-ui
+```
+Or just only Button
 ```bash
 yarn add svelte-ui-button svelte-ui-theme
 ```
-
 ## Usage
 ```javascript
 import 'svelte-ui-button'
