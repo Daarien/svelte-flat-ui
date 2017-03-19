@@ -1,8 +1,9 @@
 {
   "name": "svelte-ui-message",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "main": "index.js",
   "author": "Jikkai Xiao <sonne@asaki.me>",
+  "repository": "git+https://github.com/transpiling/svelte-flat-ui.git",
   "license": "MIT",
   "scripts": {
     "init": "yarn",

@@ -1,8 +1,9 @@
 {
   "name": "svelte-ui-video",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "main": "index.js",
   "author": "Jikkai Xiao <sonne@asaki.me>",
+  "repository": "git+https://github.com/transpiling/svelte-flat-ui.git",
   "license": "MIT",
   "scripts": {
     "init": "yarn",

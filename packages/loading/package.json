@@ -1,8 +1,9 @@
 {
   "name": "svelte-ui-loading",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "main": "index.js",
   "author": "Jikkai Xiao <sonne@asaki.me>",
+  "repository": "git+https://github.com/transpiling/svelte-flat-ui.git",
   "license": "MIT",
   "scripts": {
     "init": "yarn",
