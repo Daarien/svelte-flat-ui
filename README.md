@@ -1,8 +1,9 @@
-# svelte-flat
-> Flat UI Components with SvelteJS
-
+svelte-flat-ui
+--------------
 ![img](http://img.shields.io/npm/v/svelte-flat.svg)
 ![img](http://img.shields.io/badge/license-MIT-blue.svg)
+
+> Flat UI Components with SvelteJS
 
 <p align="center">
   <a href="https://jikkai.github.io/svelte-flat/">
@@ -33,7 +34,7 @@ button.onclick = function (e) {
 }
 ```
 
-## [Documentation](https://transpiling.github.io/svelte-flat-ui-components/)
+## [Documentation](https://transpiling.github.io/svelte-flat-ui/)
 
 ## Development
 ```bash
@@ -44,4 +45,4 @@ $ yarn run build
 ```
 
 ## License
-[MIT](https://transpiling.github.io/svelte-flat-ui-components/blob/master/LICENSE)
+[MIT](https://transpiling.github.io/svelte-flat-ui/blob/master/LICENSE)
